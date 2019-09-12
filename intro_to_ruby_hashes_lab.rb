@@ -31,6 +31,6 @@ def monopoly_with_fourth_tier
   # complexity.
 	{ railroads:
 
-		{rent_in_dollars:}
+		{rent_in_dollars: 23}
 	 }
 end
