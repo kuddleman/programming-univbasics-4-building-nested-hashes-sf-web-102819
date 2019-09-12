@@ -26,7 +26,7 @@ def monopoly_with_third_tier
 			three_houses: 60,
 			hotel: 100
 		}
-		
+
 	 }
 end
 
