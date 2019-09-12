@@ -36,7 +36,13 @@ def monopoly_with_fourth_tier
   # they'll guide you in how to modify what you just did to have more
   # complexity.
 	{ railroads:
-
-		{rent_in_dollars: 23}
+		rent_in_dollars: {
+			{
+				one_house: 20,
+				two_houses: 40,
+				three_houses: 60,
+				hotel: 100
+			}
+		}	
 	 }
 end
