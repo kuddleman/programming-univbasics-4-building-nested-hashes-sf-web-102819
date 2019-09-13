@@ -21,10 +21,10 @@ def monopoly_with_third_tier
 
 		railroads ={:rent_in_dollars => {
 			{
-				one_house: 20,
-				two_houses: 40,
-				three_houses: 60,
-				hotel: 100
+				:one_house => 20,
+				:two_houses => 40,
+				:three_houses => 60,
+				:hotel => 100
 			}
 		}
 	 }
