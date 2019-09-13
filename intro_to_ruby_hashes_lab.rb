@@ -22,7 +22,8 @@ def monopoly_with_third_tier
 
 
 								 },
-								 {:rent_in_dollars=> 10 },
+								 {:rent_in_dollars=> {}
+							 },
 
 	 }
 
